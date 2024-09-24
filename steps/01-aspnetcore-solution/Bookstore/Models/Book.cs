@@ -1,4 +1,4 @@
-﻿namespace Bookstore.Models
+namespace Bookstore.Models
 {
     public class Book
     {
