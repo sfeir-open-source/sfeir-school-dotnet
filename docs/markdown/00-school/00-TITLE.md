@@ -1,8 +1,8 @@
-<!-- .slide: class="first-slide" sfeir-level="2" sfeir-techno="xxx" -->
+<!-- .slide: class="first-slide" sfeir-level="2" sfeir-techno=".net" -->
 
 # **Welcome to SFEIR School**
 
-## **XXX 200**
+## **.Net 200**
 
 ##==##
 
@@ -23,9 +23,9 @@ Credentials
 <!-- .element: class="center" -->
 <br>
 
-![sfeir-icons big](user)<!-- .element: style="--icon-color:var(--light-grey);" --> SSID
+![sfeir-icons big](user)<!-- .element: style="--icon-color:var(--light-grey);" --> WIFI-SFEIR
 
-![sfeir-icons big](lock)<!-- .element: style="--icon-color:var(--light-grey);" --> PWD
+![sfeir-icons big](lock)<!-- .element: style="--icon-color:var(--light-grey);" --> Demandez-nous!
 
 ##==##
 
@@ -37,7 +37,3 @@ Quand est-ce qu'on mange ?<br>
 Tour de table ...
 </p>
 <br><br>
-
-**Feuille de présence (obligatoire)** <!-- .element: class="center" -->
-
-https://bit.ly/sfeir-xxx <!-- .element: class="center" -->

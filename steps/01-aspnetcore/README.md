@@ -1,4 +1,4 @@
-# Tâche à réaliser 
+# Tâche à réaliser
 
 Description de la tâche...
 
