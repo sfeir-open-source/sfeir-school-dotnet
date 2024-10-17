@@ -1,18 +1,14 @@
 <!-- .slide: class="transition bg-pink" -->
 
-# AspNetCore
+# Communication entre les services
 
 ##==##
 
-# Présentation d'ASP.NET CORE
+# Appels synchrones en REST
 
 ##==##
 
-# Construire une API
-
-##==##
-
-# Les bases d'une API
+# Messaging asynchrone avec Kafka
 
 ##==##
 

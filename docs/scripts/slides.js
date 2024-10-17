@@ -17,13 +17,33 @@ function aspNetCoreSlides() {
   return ['03-aspnetcore/00-TITLE.md'];
 }
 
+function middlewaresSlides() {
+  return ['04-middlewares/00-TITLE.md']
+}
+
+function entityFrameworkSlides() {
+  return ['05-entity-framework/00-TITLE.md']
+}
+
+function communicationSlides() {
+  return ['06-communication/00-TITLE.md']
+}
+
+function conclusionSlides() {
+  return ['07-conclusion/00-TITLE.md']
+}
+
 function formation() {
   return [
     //
     ...schoolSlides(), //
     ...introSlides(), //
     ...gettingStartedSlides(), //
-    ...aspNetCoreSlides() //
+    ...aspNetCoreSlides(), //
+    ...middlewaresSlides(), //
+    ...entityFrameworkSlides(), //
+    ...communicationSlides(), //
+    ...conclusionSlides() //
   ].map((slidePath) => {
     return { path: slidePath };
   });
