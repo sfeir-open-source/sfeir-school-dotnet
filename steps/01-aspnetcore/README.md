@@ -1,6 +1,6 @@
 # Tâche à réaliser
 
-Description de la tâche...
+Création d'une version basique de l'API
 
 # Tips
 
