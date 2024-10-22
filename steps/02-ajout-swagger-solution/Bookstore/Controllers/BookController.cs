@@ -14,8 +14,8 @@ namespace Bookstore.Controllers
             _bookstore = [
                 new Book { Id = 0, Title = "Neuromancer", Author = "William Gibson", Price = 10, Tags = ["SF", "Cyberpunk"] },
                 new Book { Id = 1, Title = "Dune", Author = "Franck Herbert", Price = 15, Tags = ["SF", "Politics"] },
-                new Book { Id = 1, Title = "Foundation", Author = "Isaac Asimov", Price = 9, Tags = ["SF", "Politics"] },
-                new Book { Id = 1, Title = "3 Body Problem", Author = "Liu Cixin", Price = 11, Tags = ["SF", "Mystery"] },
+                new Book { Id = 2, Title = "Foundation", Author = "Isaac Asimov", Price = 9, Tags = ["SF", "Politics"] },
+                new Book { Id = 3, Title = "3 Body Problem", Author = "Liu Cixin", Price = 11, Tags = ["SF", "Mystery"] },
             ];
         }
 
